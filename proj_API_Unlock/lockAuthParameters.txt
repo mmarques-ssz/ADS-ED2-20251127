@@ -1,0 +1,17 @@
+Documentação da API:
+https://euopen.ttlock.com/document/doc?urlName=userGuide%2FekeyEn.html
+
+clientId
+05eb88a940484bd08e8f2f263e56eb2b
+clientSecret
+8977e54ba82a23a016db74f4504f6b2d
+
+ifspcbtadsedd@gmail.com
+Senha@123
+23e4b3eb0ac3ae12d4f9e13372b49cda
+
+lockId
+17097086
+
+
+
