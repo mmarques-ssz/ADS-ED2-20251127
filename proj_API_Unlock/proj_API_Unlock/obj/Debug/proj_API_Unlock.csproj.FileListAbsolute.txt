@@ -1,0 +1,16 @@
+C:\Users\aluno\source\repos\proj_API_Unlock\proj_API_Unlock\obj\Debug\proj_API_Unlock.csproj.AssemblyReference.cache
+C:\Users\aluno\source\repos\proj_API_Unlock\proj_API_Unlock\obj\Debug\proj_API_Unlock.csproj.CoreCompileInputs.cache
+C:\Users\aluno\source\repos\proj_API_Unlock\proj_API_Unlock\bin\Debug\proj_API_Unlock.exe.config
+C:\Users\aluno\source\repos\proj_API_Unlock\proj_API_Unlock\bin\Debug\proj_API_Unlock.exe
+C:\Users\aluno\source\repos\proj_API_Unlock\proj_API_Unlock\bin\Debug\proj_API_Unlock.pdb
+C:\Users\aluno\source\repos\proj_API_Unlock\proj_API_Unlock\obj\Debug\proj_API_Unlock.exe
+C:\Users\aluno\source\repos\proj_API_Unlock\proj_API_Unlock\obj\Debug\proj_API_Unlock.pdb
+C:\Users\aluno\source\repos\proj_API_Unlock\proj_API_Unlock\obj\Debug\proj_API_Unlock.exe.config
+C:\Users\aluno\source\repos\proj_API_Unlock-main\proj_API_Unlock\proj_API_Unlock\bin\Debug\proj_API_Unlock.exe.config
+C:\Users\aluno\source\repos\proj_API_Unlock-main\proj_API_Unlock\proj_API_Unlock\bin\Debug\proj_API_Unlock.exe
+C:\Users\aluno\source\repos\proj_API_Unlock-main\proj_API_Unlock\proj_API_Unlock\bin\Debug\proj_API_Unlock.pdb
+C:\Users\aluno\source\repos\proj_API_Unlock-main\proj_API_Unlock\proj_API_Unlock\obj\Debug\proj_API_Unlock.csproj.AssemblyReference.cache
+C:\Users\aluno\source\repos\proj_API_Unlock-main\proj_API_Unlock\proj_API_Unlock\obj\Debug\proj_API_Unlock.exe.config
+C:\Users\aluno\source\repos\proj_API_Unlock-main\proj_API_Unlock\proj_API_Unlock\obj\Debug\proj_API_Unlock.csproj.CoreCompileInputs.cache
+C:\Users\aluno\source\repos\proj_API_Unlock-main\proj_API_Unlock\proj_API_Unlock\obj\Debug\proj_API_Unlock.exe
+C:\Users\aluno\source\repos\proj_API_Unlock-main\proj_API_Unlock\proj_API_Unlock\obj\Debug\proj_API_Unlock.pdb
